@@ -1,0 +1,10 @@
+(librepcb_library 9195eb4a-3937-4f4d-b1e3-44a2d9d29a81
+ (name "Microchip Technology")
+ (description "Unofficial LibrePCB library for Microchip Technology ICs")
+ (keywords "")
+ (author "Fabio Bertagna")
+ (version "0.1")
+ (created 2020-10-25T01:23:59Z)
+ (deprecated false)
+ (url "https://github.com/DonGiovanni83/microchip_technology_ics.lplib.git")
+)

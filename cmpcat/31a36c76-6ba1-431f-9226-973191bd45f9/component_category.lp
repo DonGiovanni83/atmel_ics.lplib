@@ -1,0 +1,10 @@
+(librepcb_component_category 31a36c76-6ba1-431f-9226-973191bd45f9
+ (name "8-bit AVR")
+ (description "")
+ (keywords "")
+ (author "Fabio")
+ (version "0.1")
+ (created 2020-10-25T01:37:02Z)
+ (deprecated false)
+ (parent 7786de01-b223-4ecd-bf16-67d23c92e833)
+)

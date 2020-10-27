@@ -1,0 +1,10 @@
+(librepcb_component_category 7786de01-b223-4ecd-bf16-67d23c92e833
+ (name "Microcontroller")
+ (description "")
+ (keywords "")
+ (author "Fabio Bertagna")
+ (version "0.1")
+ (created 2020-10-25T01:31:58Z)
+ (deprecated false)
+ (parent none)
+)
